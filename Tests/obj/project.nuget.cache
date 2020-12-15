@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8oQOmv1DsIq/udPSaIYDFQIWhDNBFRgsqdd9FXtR3HgGxoK99GrFuvw2PE+2Pdn8kBxpylD7zNpPINbWFLX6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arsenio Benitez\\source\\repos\\SportsStore\\Tests\\Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arsenio Benitez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arsenio Benitez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

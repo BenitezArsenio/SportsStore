@@ -1,0 +1,9 @@
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\bin\Debug\netstandard2.0\DomainModel.deps.json
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\bin\Debug\netstandard2.0\DomainModel.dll
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\bin\Debug\netstandard2.0\DomainModel.pdb
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\obj\Debug\netstandard2.0\DomainModel.csprojAssemblyReference.cache
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\obj\Debug\netstandard2.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\obj\Debug\netstandard2.0\DomainModel.AssemblyInfo.cs
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\obj\Debug\netstandard2.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\obj\Debug\netstandard2.0\DomainModel.dll
+C:\Users\Arsenio Benitez\source\repos\SportsStore\DomainModel\obj\Debug\netstandard2.0\DomainModel.pdb

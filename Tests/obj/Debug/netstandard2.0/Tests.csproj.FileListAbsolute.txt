@@ -1,0 +1,9 @@
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\bin\Debug\netstandard2.0\Tests.deps.json
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\bin\Debug\netstandard2.0\Tests.dll
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\bin\Debug\netstandard2.0\Tests.pdb
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\obj\Debug\netstandard2.0\Tests.csprojAssemblyReference.cache
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\obj\Debug\netstandard2.0\Tests.AssemblyInfoInputs.cache
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\obj\Debug\netstandard2.0\Tests.AssemblyInfo.cs
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\obj\Debug\netstandard2.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\obj\Debug\netstandard2.0\Tests.dll
+C:\Users\Arsenio Benitez\source\repos\SportsStore\Tests\obj\Debug\netstandard2.0\Tests.pdb
